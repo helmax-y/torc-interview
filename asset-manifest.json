@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/torc-interview/static/css/main.7dfbe15a.css",
+    "main.js": "/torc-interview/static/js/main.614071de.js",
+    "index.html": "/torc-interview/index.html",
+    "main.7dfbe15a.css.map": "/torc-interview/static/css/main.7dfbe15a.css.map",
+    "main.614071de.js.map": "/torc-interview/static/js/main.614071de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dfbe15a.css",
+    "static/js/main.614071de.js"
+  ]
+}
